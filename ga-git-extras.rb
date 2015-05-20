@@ -1,7 +1,7 @@
 require 'formula'
 class GaGitExtras < Formula
   homepage "https://github.com/drmikeh/ga-git-extras"
-  url "https://github.com/drmikeh/ga-git-extras/archive/ga-git-extras-1.0.0.tar.gz"
+  url "https://github.com/drmikeh/ga-git-extras/archive/0.1.0.tar.gz"
   sha256 "1db2d87d14d845b9757225925e6ad7e58ced939ba8179b2a501144eeab34760e"
 
   head "https://github.com/drmikeh/ga-git-extras.git", :branch=> "master"
