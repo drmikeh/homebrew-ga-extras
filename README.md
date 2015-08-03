@@ -16,6 +16,7 @@ You can install formulae from this tap in the same way you install from other br
 
 ```
 brew install ga-git-extras
+brew install ga-wdi-extras
 ```
 
 ## Removing This Tap
