@@ -1,7 +1,7 @@
 class GaGitExtras < Formula
   homepage 'https://github.com/drmikeh/ga-git-extras'
   url 'https://github.com/drmikeh/ga-git-extras/archive/0.1.1.tar.gz'
-  sha256 ''
+  sha256 'aa1aa7d2df81559104842969a0e922f81f63111172dce7c31dd2204d63b7506a'
 
   head 'https://github.com/drmikeh/ga-git-extras.git', :branch => 'master'
 
