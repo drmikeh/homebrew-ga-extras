@@ -3,7 +3,7 @@ class GaWdiExtras < Formula
   homepage "https://github.com/drmikeh/ga-wdi-extras"
   url "https://github.com/drmikeh/ga-wdi-extras/archive/0.1.4.tar.gz"
   version "0.1.4"
-  sha256 ""
+  sha256 "537c88deb9b6ff678ded4b35c848627a0606da2b817210ecc91436b5893f017c"
   head 'https://github.com/drmikeh/ga-git-extras.git', branch: 'master'
 
   # Don't take +x off these files
