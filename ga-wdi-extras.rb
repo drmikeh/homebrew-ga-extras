@@ -1,9 +1,9 @@
 class GaWdiExtras < Formula
   desc "A set of scripts in a brew keg for use with General Assembly's WDI class."
   homepage "https://github.com/drmikeh/ga-wdi-extras"
-  url "https://github.com/drmikeh/ga-wdi-extras/archive/0.1.11.tar.gz"
-  version "0.1.11"
-  sha256 "1227243738057b215b4eff34bf4be14721fad095f790d16066680e0688d36b2b"
+  url "https://github.com/drmikeh/ga-wdi-extras/archive/0.1.12.tar.gz"
+  version "0.1.12"
+  sha256 ""
   head 'https://github.com/drmikeh/ga-git-extras.git', branch: 'master'
 
   # Don't take +x off these files
